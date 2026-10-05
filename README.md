@@ -40,11 +40,12 @@ Próximos passos
 
 ## 03 — Projetos
 
-🟢 **Gerenciador de Hábitos**
+✅ **Gerenciador de Hábitos**
 Aplicação desenvolvida para praticar JavaScript, manipulação do DOM, eventos e lógica de programação.
 
-🔵 **Projetos Web**
-Projetos desenvolvidos durante meus estudos de HTML, CSS e JavaScript.
+🍽️ **Landing Page — Restaurante**
+Landing page responsiva desenvolvida com HTML, CSS e JavaScript.
+[Repositório](https://github.com/Lupus-png/landing-page-restaurant) [Live Demo](https://lupus-png.github.io/landing-page-restaurant/)
 
 🟣 **Mais projetos em desenvolvimento...**
 
@@ -52,16 +53,16 @@ Projetos desenvolvidos durante meus estudos de HTML, CSS e JavaScript.
 
 ## 04 — Sobre mim
 
-Gosto de aprender colocando a mão no código e transformar conceitos em projetos práticos.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha base em desenvolvimento web através de estudo e prática.
 
-Atualmente estou construindo minha base em desenvolvimento web enquanto curso **Análise e Desenvolvimento de Sistemas**.
+Gosto de aprender colocando a mão no código e transformar conceitos em projetos.
 
-Meu objetivo é evoluir constantemente, construir projetos cada vez mais completos e conquistar minha primeira oportunidade profissional na área de tecnologia.
+Atualmente estou focado em evoluir minhas habilidades com JavaScript e construir um portfólio que represente minha evolução como desenvolvedor.
 
 ---
 
 ### 📫 Onde me encontrar
 
-💼 [LinkedIn](SEU-LINKEDIN-AQUI)
+💼 [LinkedIn](https://www.linkedin.com/in/igorgabriel-png/)
 
-📧 Email: SEU-EMAIL-AQUI
+📧 Email: igorgabriel.png@gmail.com
