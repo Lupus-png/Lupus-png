@@ -47,6 +47,10 @@ Aplicação desenvolvida para praticar JavaScript, manipulação do DOM, eventos
 Landing page responsiva desenvolvida com HTML, CSS e JavaScript.
 [Repositório](https://github.com/Lupus-png/landing-page-restaurant) [Live Demo](https://lupus-png.github.io/landing-page-restaurant/)
 
+👤 **Explorador de Usuários**
+Explorador responsivo desenvolvida com HTML, CSS e JavaScript, consumo de API, manipulação de DOM, eventos, logica de programação e funções assíncronas.
+[Repositório](https://github.com/Lupus-png/explorador-de-usuarios) [Live Demo](https://lupus-png.github.io/explorador-de-usuarios/)
+
 🟣 **Mais projetos em desenvolvimento...**
 
 ---
